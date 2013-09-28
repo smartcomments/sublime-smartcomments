@@ -1,0 +1,10 @@
+[{
+  "caption": "Tools",
+  "mnemonic": "s",
+  "id": "tools",
+  "children": [{
+    "id": "smartcomments",
+    "caption": "SmartComments",
+    "command": "smart_comments"
+  }]
+}]
