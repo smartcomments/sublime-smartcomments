@@ -28,7 +28,7 @@ class SmartCommentsFolderCommand(sublime_plugin.TextCommand):
             return
 
         file_dir = path_dirname(file_name)
-        result = fn_execute(["-a", file_dir], "ls")
+        result = fn_execute(["-g", file_dir], "smartcomments")
 
         if result:
             self.view.insert(edit, 0, str(result[0]))
@@ -43,7 +43,7 @@ class SmartCommentsFileCommand(sublime_plugin.TextCommand):
         if not file_name or not str(file_name).endswith("js"):
             return
 
-        result = fn_execute(["-a", file_name], "ls")
+        result = fn_execute(["-g", "-t", file_name], "smartcomments")
 
         print (result)
 
