@@ -1,5 +1,4 @@
-[{
-  "id": "smartcomments",
-  "caption": "SmartComments",
-  "command": "smart_comments"
-}]
+[
+    { "caption": "SmartComments: Comments for Current File ", "command": "smart_comments_file" },
+    { "caption": "SmartComments: Comments for File Folder ", "command": "smart_comments_folder" }
+]
