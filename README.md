@@ -8,9 +8,9 @@ Try SmartComments online [here](http://smartcomments.github.io).
 usage
 =====
 
-In any JS source file, press Ctrl+Alt+F (Linux & Windows) to generate comments from current file.
+In any JS source file, press Ctrl+Alt+F (Linux & Windows) to **generate comments** from **current file**.
 
-In any JS source file, press Ctrl+Alt+O (Linux & Windows) to generate comments from current directory.
+In any JS source file, press Ctrl+Alt+O (Linux & Windows) to **generate comments** from **current directory**.
 
 install
 =======
