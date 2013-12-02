@@ -1,4 +1,5 @@
 [
     { "caption": "SmartComments: Comments for Current File ", "command": "smart_comments_file" },
-    { "caption": "SmartComments: Comments for File Folder ", "command": "smart_comments_folder" }
+    { "caption": "SmartComments: Comments for File Folder ", "command": "smart_comments_folder" },
+    { "caption": "SmartComments: Comments for Selected Code", "command": "smart_comments_text" }
 ]
