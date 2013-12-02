@@ -1,16 +1,16 @@
 {
-   "schema_version": "0.1",
+   "schema_version": "0.2",
    "packages": [
       {
          "name": "Sublime SmartComments",
          "description": "SmartComments",
          "author": "smartcomments",
          "homepage": "https://github.com/smartcomments/sublime-smartcomments",
-         "last_modified": "28/09/2013",
+         "last_modified": "26/11/2013",
          "platforms": {
             "*": [
                {
-                  "version": "0.1",
+                  "version": "0.2",
                   "url": "https://github.com/smartcomments/sublime-smartcomments"
                }
             ]

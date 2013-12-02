@@ -1,5 +1,5 @@
 [
         { "keys": ["ctrl+alt+f"], "command": "smart_comments_file"},
-        { "keys": ["ctrl+alt+d"], "command": "smart_comments_folder"},
+        { "keys": ["ctrl+alt+o"], "command": "smart_comments_folder"},
         { "keys": ["ctrl+alt+s"], "command": "smart_comments_text"}
 ]
